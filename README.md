@@ -1,6 +1,6 @@
-# OSCAR-tools
+# cisnlp/OSCAR-tools
 
-This is a new set of tools to do common tasks on the [OSCAR corpus](https://oscar-corpus.com)
+This is a new set of tools to do common tasks on the GlotCC/OSCAR.
 
 The program has a different set of tools for each corpus version:
 - `v1`: OSCAR 2019-like, text only (.txt files)
